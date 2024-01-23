@@ -1,0 +1,35 @@
+/* .co-header{
+   text-align:center;
+   background-color: rgb(219, 244, 247);
+} */
+/*.about  h1{
+    color: blueviolet;
+    text-align:left    
+}
+table , tr, th,td{
+border: 1px solid black;
+width: 70%;
+
+}
+
+.soi h3{
+    text-align:left;
+    color: blueviolet;
+}
+.ts h3{
+    text-align:left;
+    color: blueviolet;
+}
+.ws h3{
+    text-align:left;
+    color: blueviolet;
+}
+.container {
+    background-color: rgb(219, 244, 247);
+}*/
+.head{
+    
+    width: 100%; 
+    display:flex ;
+    justify-content: space-between;
+}
